@@ -1,0 +1,10 @@
+/* 
+    Created on : Jan 13, 2022, 9:29:32 PM
+    Author     : Vidhy Patel
+*/
+html {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: inherit;
+}
